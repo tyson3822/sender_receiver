@@ -1,6 +1,8 @@
 # sender_receiver
 A simple code for tcp/udp sender and receiver with c++ language, single client and server only.
 
+# Build
+Please run `build` to build `tcp_sender_receiver`,`udp_sender_receiver`.
 
 # Usage
 ```
