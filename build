@@ -1,0 +1,6 @@
+if [ ! -d "bin" ];then
+  mkdir bin
+fi
+
+g++ -g -o bin/udp_sender_receiver udp_sender_receiver.cpp
+g++ -g -o bin/tcp_sender_receiver tcp_sender_receiver.cpp
